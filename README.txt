@@ -5,6 +5,5 @@
 ・フレームワーク：Spring Boot
 ・ビルドツール：Gradle
 ・テンプレートエンジン：Thymeleaf
-・データベース：MySql
-・ORM：MyBatis
-・画面デザイン：BootStrap
+・データベース：postgresql
+・ORM：Spring Data JDBC
