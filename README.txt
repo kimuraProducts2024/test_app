@@ -6,4 +6,4 @@
 ・ビルドツール：Gradle
 ・テンプレートエンジン：Thymeleaf
 ・データベース：postgresql
-・ORM：Spring Data JDBC
+・ORM：JPA
